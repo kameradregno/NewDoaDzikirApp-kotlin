@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Doa dan Dzikir App</string>
+
+
+    <string name="txt_judul_fitur">Kumpulan Doa &amp; Dzikir Sehari-Hari</string>
+    <string name="txt_sunnah_qauliyah">Sunnah - Sunnah Qauliyah</string>
+    <string name="txt_dzikir_setiap_saat">Dzikir Setiap Saat</string>
+    <string name="txt_dzikir_doa_harian">Dzikir &amp; Doa Harian</string>
+    <string name="txt_dzikir_pagi_petang"><![CDATA[Dzikir Pagi & Petang]]></string>
+
+
+    <string name="txt_artikel_islami">Artikel Islami</string>
+
+
+    <string name="txt_dzikir_pagi">Dzikir Pagi</string>
+    <string name="txt_dzikir_petang">Dzikir Petang</string>
+
+
+    <string name="content_txt_icon_dzikir_pagi_petang">Icon Dzikir Pagi Petang</string>
+    <string name="content_txt_icon_dzikir_doa_harian">Icon Dzikir Doa Harian</string>
+    <string name="content_txt_icon_dzikir_setiap_saat">Icon Dzikir Setiap Saat</string>
+    <string name="content_txt_icon_qauliyah_shalat">Icon Qauliyah Shalat</string>
+    <string name="content_txt_icon_btn_dzikir_pagi">Icon btn dzikir Pagi</string>
+    <string name="content_txt_icon_btn_dzikir_petang">Icon btn Dzikir Petang</string>
+    <string name="content_txt_icon_image_for_background_dzikir">Icon image for Background Dzikir</string>
+    <string name="content_txt_image_artikel">Image Poster Detail Artikel</string>
+
+
+    <integer-array name="arr_img_artikel">
+        <item>@drawable/artikel_1</item>
+        <item>@drawable/bg_artikel</item>
+        <item>@drawable/artikel_1</item>
+        <item>@drawable/bg_artikel</item>
+        <item>@drawable/artikel_1</item>
+        <item>@drawable/bg_artikel</item>
+        <item>@drawable/artikel_1</item>
+        <item>@drawable/bg_artikel</item>
+    </integer-array>
+
+
+    <string-array name="arr_title_artikel">
+        <item>Sedekah Adalah Bukti Keimanan</item>
+        <item>Artikel 2 Artikel Artikel Artikel Artikel Artikel</item>
+        <item>Artikel 3 Artikel Artikel Artikel Artikel Artikel</item>
+        <item>Artikel 4 Artikel Artikel Artikel Artikel Artikel</item>
+        <item>Artikel 5 Artikel Artikel Artikel Artikel Artikel</item>
+        <item>Artikel 6 Artikel Artikel Artikel Artikel Artikel</item>
+        <item>Artikel 7 Artikel Artikel Artikel Artikel Artikel</item>
+        <item>Artikel 8 Artikel Artikel Artikel Artikel Artikel</item>
+    </string-array>
+
+
+    <string-array name="arr_desc_artikel">
+        <item>Seiring dengan makin jauhnya zaman dari masa kenabian shallallahu ‘alaihi wa sallam, maka semakin banyak pula kesesatan dan bid’ah yang tersebar di tengah kaum muslimin[1], sehingga indahnya sunnah Nabi shallallahu ‘alaihi wa sallam dan kebenaran makin asing dalam pandangan mereka. Bahkan lebih dari itu, mereka menganggap perbuatan-perbuatan bid’ah yang telah tersebar sebagai kebenaran yang tidak boleh ditinggalkan, dan sebaliknya jika ada sunnah Rasulullah shallallahu ‘alaihi wa sallam yang dihidupkan dan diamalkan kembali, mereka akan mengingkarinya dan memandangnya sebagai perbuatan buruk.</item>
+        <item>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</item>
+        <item>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</item>
+        <item>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</item>
+        <item>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</item>
+        <item>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</item>
+        <item>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</item>
+        <item>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</item>
+    </string-array>
+</resources>
