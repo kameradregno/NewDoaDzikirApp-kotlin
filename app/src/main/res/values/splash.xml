@@ -3,7 +3,7 @@
     <style name="Theme.SplashScreen.DoaDanDzikir" parent="Theme.SplashScreen">
         <item name="windowSplashScreenBackground">@color/purple</item>
         <item name="windowSplashScreenAnimatedIcon">@drawable/ic_splash</item>
-        <item name="postSplashScreenTheme">@style/NoActionBar</item>
+        <item name="postSplashScreenTheme">@style/Theme.NewDoaDanDzikirApp.actionbar</item>
     </style>
 
     <style name="NoActionBar" parent="Theme.MaterialComponents.Light.NoActionBar">
